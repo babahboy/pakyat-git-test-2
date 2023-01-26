@@ -9,5 +9,10 @@
 <body>
     <h1>hello lagi pak yat</h1>
     <p>lorem imsummmmmmm</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+        <li>tiga</li>
+    </ul>
 </body>
 </html>
